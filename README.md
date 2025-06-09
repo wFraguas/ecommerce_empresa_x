@@ -51,3 +51,7 @@ __Melhoria 1__, _Melhoria 2_
 
 <!-- Link direto do github -->
 Contribuidor Principal: https://github.com/wfraguas
+
+
+<!-- Linkando imagens com a sintaxe do markdown -->
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/wfraguas)
