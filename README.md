@@ -34,3 +34,8 @@ __Melhoria 1__, _Melhoria 2_
 #### Imagem local
 
 ![Logo do Python](img/python.png)
+
+
+#### Imagem externa
+
+![Logo do PHP](https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png)
