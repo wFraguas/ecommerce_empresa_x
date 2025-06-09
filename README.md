@@ -65,3 +65,12 @@ function soma (a, b){
     return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+<!-- Segue um exemplo de criaçaõ de Tasklist em MD -->
+<!-- "x" para tarefas completadas / sem "x" para tarefas a vender -->
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bonus
+- [ x ] CSS do rodapé
