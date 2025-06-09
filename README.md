@@ -20,3 +20,9 @@ __Melhoria 1__, _Melhoria 2_
 * JavaScript
 * PHP
 * MySQL
+
+### funcionalidades a desenvolver:
+
+1. Área de membros;
+2. Integração com outros pagamentos;
+3. Sistema de bonus primeira compra
