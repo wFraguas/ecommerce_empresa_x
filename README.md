@@ -43,4 +43,8 @@ __Melhoria 1__, _Melhoria 2_
 
 ## Links interessantes:
 
+<!-- Link com um titulo -->
 [Google](http://google.com)
+
+<!-- Link como texto completo -->
+[https://www.udemy.com/](https://www.udemy.com/)
