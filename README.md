@@ -48,3 +48,6 @@ __Melhoria 1__, _Melhoria 2_
 
 <!-- Link como texto completo -->
 [https://www.udemy.com/](https://www.udemy.com/)
+
+<!-- Link direto do github -->
+Contribuidor Principal: https://github.com/wfraguas
