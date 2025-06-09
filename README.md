@@ -55,3 +55,13 @@ Contribuidor Principal: https://github.com/wfraguas
 
 <!-- Linkando imagens com a sintaxe do markdown -->
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/wfraguas)
+
+
+## Exibindo codigos em Markdown (MD)
+<!-- Segue a sinteaxe de um exemplo de codigo em MD de uma funcao soma -->
+
+```javascript
+function soma (a, b){
+    return a + b;
+}
+```
